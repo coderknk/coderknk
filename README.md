@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamakhya narayan
 - 👀 I’m interested in web development ,artificial intelligence and machine learning,
-- 🌱 I’m currently learning diffent forms of frameworks in java and python
+- 🌱 I’m currently learning different forms of frameworks in java and python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me -https://www.linkedin.com/in/kamakhya-narayan-024a881a4/
 - 😄 Pronouns: knk
