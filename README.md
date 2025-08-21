@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kamakhya Narayan Keshari</h1>
-<h3 align="center">🚀 Computer Science Engineering Student | Web Dev | AI & ML Enthusiast</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4A90E2&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Kamakhya+Narayan+Keshari;Computer+Science+Engineering+Student;AI+%26+ML+Enthusiast;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
+<h3 align="center">🚀 Web Development | Artificial Intelligence | Machine Learning</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=coderknk&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views"/>
@@ -21,7 +25,7 @@
 ---
 
 ### 🔗 Connect with me:
-<p align="left">
+<p align="center">
 <a href="mailto:knkeshari03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/kamakhya-narayan-024a881a4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/profile/knkeshari03"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
@@ -38,15 +42,22 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=coderknk&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=coderknk&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=coderknk&show_icons=true&theme=radical&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=coderknk&theme=radical" width="48%"/>
 </p>
 
 ---
 
 ### 🚀 Top Languages:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderknk&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderknk&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🎯 Fun Animation:
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding GIF"/>
 </p>
 
 ---
