@@ -13,10 +13,10 @@
 ---
 
 ### 🌟 About Me  
-- 👨‍💻 **All my projects:** _[coming soon]_  
-- 📝 **I write articles on:** _[coming soon]_  
+- 👨‍💻 **All my projects:** on my github repos  
+- 📝 **I write articles on:** linkedin  
 - 👀 **Interests:** Web Development, Artificial Intelligence, Machine Learning  
-- 🌱 **Currently Learning:** Advanced frameworks in **Java** & **Python**  
+- 🌱 **Currently Learning:** Advanced frameworks in **ai,mern, llm agentic ai and every rev.tech**
 - 🤝 **Looking to collaborate on:** Open Source Projects & AI-based Applications  
 - 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/kamakhya-narayan-024a881a4/)  
 - 😄 **Pronouns:** `knk`  
